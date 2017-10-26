@@ -1,0 +1,19 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+#header-title{
+    text-align: center;
+    bottom: 0;
+}
+p{
+    font-size: 0.85em;
+}
+.country{
+    fill:#cccccc;
+    stroke:grey;
+    stroke-width: 0.5;
+
+}
+.selected{
+    fill: yellow
+}

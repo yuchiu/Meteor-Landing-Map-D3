@@ -1,0 +1,23 @@
+{
+  "name": "meteor-landing-map-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchiu/Meteor-Landing-Map-D3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuchiu/Meteor-Landing-Map-D3/issues"
+  },
+  "homepage": "https://github.com/yuchiu/Meteor-Landing-Map-D3#readme",
+  "dependencies": {
+    "serve": "^6.3.1"
+  }
+}
